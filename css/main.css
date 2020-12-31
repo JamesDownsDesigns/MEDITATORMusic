@@ -373,9 +373,14 @@ Created by : mutationthemes
      z-index: 4;
 }
 
-.watcher {
-    padding-left: 170px;
+.watcherLogo {
+    margin-right: 0px;
 
+
+}
+
+.dust {
+    margin-right: 0px;
 }
 
 .hero.single{
