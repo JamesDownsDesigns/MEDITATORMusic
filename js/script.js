@@ -189,7 +189,7 @@
     //Twitter setup
 
     var config = {
-        "profile": {"screenName": 'mutationthemes'},
+        "profile": {"screenName": 'meditatorband'},
         "domId": 'tweets',
         "maxTweets": 3,
         "showRetweet": false,
