@@ -409,6 +409,11 @@ section.hero {
 .about-page {
     height: 3000px;
 }
+
+.about-btn {
+    margin-bottom: 8px;
+}
+
 h1.large {
   font-size: 4.4rem;
   line-height: 1.5;
