@@ -380,6 +380,20 @@ section.hero {
   z-index: 4;
 }
 
+.about-hero-content {
+    color: #ffffff;
+  position: relative;
+  text-align: center;
+  /* padding-left: 170px; */
+  top: 10%;
+  transform: translateY(-50%);
+  -webkit-transform: translateY(-50%);
+  -moz-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  -o-transform: translateY(-50%);
+  z-index: 4;
+}
+
 .watcherLogo {
   margin-right: 0px;
 }
@@ -390,6 +404,10 @@ section.hero {
 
 .hero.single {
   height: 40vh;
+}
+
+.about-page {
+    height: 3000px;
 }
 h1.large {
   font-size: 4.4rem;
