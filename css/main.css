@@ -370,7 +370,7 @@ section.hero {
   color: #ffffff;
   position: relative;
   text-align: center;
-  padding-left: 170px;
+  /* padding-left: 170px; */
   top: 50%;
   transform: translateY(-50%);
   -webkit-transform: translateY(-50%);
